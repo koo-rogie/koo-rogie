@@ -53,7 +53,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=koo-rogie&utm_content=line">
-    <img width="500" height="400" src="https://render.gitanimals.org/lines/koo-rogie"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=koo-rogie&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/koo-rogie"
+      width="600"
+      height="300"
+    />
   </a>
 </div>
