@@ -61,15 +61,20 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogie&layout=compact&bg_color=180,326fd2,00000000&title_color=ffffff&text_color=ffffff"
       style="flex: 1; min-width: 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;"
     />
+    <img
+      src="http://mazandi.herokuapp.com/api?handle=rn5184&theme=warm"
+      style="flex: 1; min-width: 300px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;"
+      />
   </div>
 </div>
 
-<div align="center">
+<div style="text-align: left;">
+  <h2>Git Animals</h2>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=koo-rogie&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/koo-rogie"
-      width="600"
-      height="300"
+      width="800"
+      height="400"
     />
   </a>
 </div>
